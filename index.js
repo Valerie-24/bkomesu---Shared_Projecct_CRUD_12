@@ -96,3 +96,4 @@ class DOMManager {
 }
 
 DOMManager.getAll();
+
